@@ -1,0 +1,32 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Organisation du travail}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Idées retenues}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Répartition des taches}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Architecture du Projet}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Structure du système}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Paquetage}{6}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Construction du système}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}construction des classes}{6}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Les Plantes}{6}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Description de la classe "Animal"}{7}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Description de la classe Carnivore}{7}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}Classe Herbivores}{8}{subsubsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.2}Le Terrain}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Le monde}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Les deux version du jeu}{10}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Alphanumérique}{10}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}La version avec Interface graphique}{10}{subsubsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.5}Algorithmes utilisés}{11}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}le déplacement}{11}{subsubsection.4.5.1}%
+\contentsline {section}{\numberline {5}Les compléments de l'interface}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Informations sur l'évolution du système}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Interaction avec l'utilisateur et perturbation}{13}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Expérimentations et équilibre}{13}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Détermination du coefficient a}{13}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Détermination du coefficient b}{14}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Détermination des coefficients c et d}{14}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Résultats}{15}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Résolution}{16}{subsection.6.5}%
+\contentsline {section}{\numberline {7}Conclusion}{17}{section.7}%
+\contentsline {section}{\numberline {A}Sources}{18}{appendix.A}%
